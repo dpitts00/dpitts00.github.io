@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Pitts Software"
-permalink: /
+permalink: 
 ---
 
 # Support for Pitts Software apps
