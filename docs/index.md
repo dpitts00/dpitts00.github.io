@@ -17,7 +17,7 @@ Your personal data used in our apps will never be accessible to us.
 We do not collect any personal data from or about our app users.
 We do not share any data with any third parties.
 
-## We Do Not Collect Personal Information for Any of Our Apps, including:
+## We Do Not Collect Personal Information for Any of Our Apps
  - ToddlerTown
  - Little Journals
 
