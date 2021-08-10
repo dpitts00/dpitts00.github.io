@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: "Pitts Software"
 ---
 
 # Support for Pitts Software apps
