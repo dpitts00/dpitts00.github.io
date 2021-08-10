@@ -1,0 +1,12 @@
+h1, h2, h3, p, li {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+a {
+    list-style-type: square;
+    color: #0C75B4;
+}
+
+a:hover {
+    color: #999999;
+}
